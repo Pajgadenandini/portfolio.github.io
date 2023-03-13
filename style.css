@@ -71,7 +71,7 @@ nav .navbar .menu li{
   color: #4070f4;
 }
 nav.sticky .menu a{
-  color: #FFF;
+  color: #4070f4;
 }
 nav.sticky .menu a:hover{
   color: #0E2431;
@@ -82,14 +82,14 @@ nav.sticky .menu a:hover{
   margin: 0 6px;
 }
 nav.sticky .media-icons a{
-  color: #FFF;
+  color: #4070f4;
 }
 
 /* Side Navigation Menu Button CSS */
 nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
-  color: #fff;
+  color: #4070f4;
   right: 30px;
   top: 20px;
   font-size: 20px;
