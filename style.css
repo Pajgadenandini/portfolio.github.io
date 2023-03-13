@@ -112,7 +112,7 @@ nav.sticky .menu-btn{
   height: 100vh;
   width: 100%;
   
-  background-image: url('https://www.canva.com/design/DAFcoa0DvHE/shZht6-ioj3AwkrqDlPJNQ/edit?utm_content=DAFcoa0DvHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton') no-repeat;
+  background url:(Images/backgroung.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
