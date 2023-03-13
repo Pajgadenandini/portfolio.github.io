@@ -50,7 +50,7 @@ nav .navbar .logo a{
   color: #4070F4;
 }
 nav.sticky .navbar .logo a{
-  color: #4070f4;
+  color: #FFF;
 }
 nav .navbar .menu{
   display: flex;
@@ -89,7 +89,7 @@ nav.sticky .media-icons a{
 nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
-  color: #4070f4;
+  color: #fff;
   right: 30px;
   top: 20px;
   font-size: 20px;
@@ -98,7 +98,7 @@ nav .menu-btn,
   display: none;
 }
 nav .menu-btn{
-  color: #4070f4;
+  color: #4070F4;
 }
 nav.sticky .menu-btn{
   color: #FFF;
@@ -460,7 +460,7 @@ footer .text span a:hover{
   nav .navbar .menu a{
     font-size: 23px;
     display: block;
-    color: #fff;
+    color: #FFF;
     margin: 10px 0;
   }
   nav.sticky .menu a:hover{
