@@ -106,6 +106,10 @@ nav.sticky .menu-btn{
 .navbar .menu .menu-btn{
   color: #fff;
 }
+body{
+  background: #EADDCA;
+  color: #fff;  
+}
 
 /* home section styling */
 .home{
