@@ -47,7 +47,7 @@ nav .navbar{
 nav .navbar .logo a{
   font-weight: 500;
   font-size: 35px;
-  color: #4070f4;
+  color: #4070F4;
 }
 nav.sticky .navbar .logo a{
   color: #4070f4;
@@ -60,7 +60,7 @@ nav .navbar .menu li{
   list-style: none;
   margin: 0 8px;
 }
-.navbar .menu a{
+.navbar .menu li{
   font-size: 18px;
   font-weight: 500;
   color: #0E2431;
@@ -77,7 +77,7 @@ nav.sticky .menu a:hover{
   color: #0E2431;
 }
 .navbar .media-icons a{
-  color: #4070f4;
+  color: #4070F4;
   font-size: 18px;
   margin: 0 6px;
 }
